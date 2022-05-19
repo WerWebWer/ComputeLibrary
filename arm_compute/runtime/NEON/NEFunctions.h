@@ -106,5 +106,6 @@
 #include "arm_compute/runtime/NEON/functions/NETranspose.h"
 #include "arm_compute/runtime/NEON/functions/NEUnstack.h"
 #include "arm_compute/runtime/NEON/functions/NEWinogradConvolutionLayer.h"
+#include "arm_compute/runtime/NEON/functions/NEGelu.h"
 
 #endif /* ARM_COMPUTE_NEFUNCTIONS_H */

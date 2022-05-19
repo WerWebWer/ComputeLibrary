@@ -1986,6 +1986,14 @@
         "files": {
           "common": [ "src/runtime/NEON/functions/NEUnstack.cpp" ]
         }
+      },
+      "Gelu": {
+        "files": {
+          "common": [
+            "src/core/NEON/kernels/NEGeluKernel.cpp",
+            "src/runtime/NEON/functions/NEGelu.cpp"
+          ]
+        }
       }
     }
   }
